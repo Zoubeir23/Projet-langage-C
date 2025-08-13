@@ -4,7 +4,7 @@
 
 **Projet:** Application de gestion complète pour la clinique "Saa Tank Sama Tank"  
 **Langage:** C (C99)  
-**Auteur:** M GAYE Abdoulaye  
+**Auteur:** Sandra  
 **Période:** 2024 - 2025  
 **Cours:** L1GL NR  
 
@@ -243,4 +243,4 @@ Ce projet de gestion de clinique représente une **implémentation complète et 
 
 **🏥 Projet de Gestion de Clinique - Saa Tank Sama Tank**  
 **✅ TERMINÉ ET PRÊT À L'EMPLOI**  
-**👨‍💻 Développé par M GAYE Abdoulaye - 2024-2025**
+**👨‍💻 Développé par Sandra - 2024-2025**

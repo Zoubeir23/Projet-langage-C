@@ -1,5 +1,5 @@
 # Makefile pour le projet de gestion de clinique
-# Auteur: M GAYE Abdoulaye
+# Auteur: Sandra
 # Année: 2024-2025
 
 # Compilateur
@@ -84,7 +84,7 @@ help:
 info:
 	@echo "🏥 PROJET DE GESTION D'UNE CLINIQUE"
 	@echo "=================================="
-	@echo "Auteur: M GAYE Abdoulaye"
+	@echo "Auteur: Sandra"
 	@echo "Année: 2024-2025"
 	@echo "Clinic: Saa Tank Sama Tank"
 	@echo ""
