@@ -6,7 +6,7 @@ Application de gestion complète pour la clinique **"Saa Tank Sama Tank"** déve
 
 ## 👨‍💻 Auteur
 
-- **Nom:** M GAYE Abdoulaye
+- **Nom:** Sandra
 - **Année:** 2024 - 2025
 - **Cours:** L1GL NR
 
